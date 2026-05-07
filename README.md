@@ -1,6 +1,1 @@
-# GitHub-Special-repository
-Это специальные репозитории для того, чтобы искусственный интеллект проверял мои коды.
-# Зачем?
-Затем :D
-
-Hello, World!
+IyBHaXRIdWItU3BlY2lhbC1yZXBvc2l0b3J5CtgLL9Ct0YLQviDRgdC/0LXRhtC40LDQu9GM0L3Ri9C1INGA0LXQv9C+0LfQuNGC0L7RgNC40Lgg0LTQu9GPINGC0L7Qs9C+LCDRh9GC0L7QsdGLINC40YHRgtCw0LrRg9GB0YLQstC10L3QvdGL0Lkg0LjQvdGC0LXQu9C70LXQutGCINC/0YDQvtCy0LXRgNGP0LsQvtC+0LLRgdC10LvRjCDQvNC+0Lgg0LrQvtC00YsuCiMINCX0LDRh9C10Lw/CtCX0LDRgtC10LwgOkQKCgpIZWxsbywgV29ybGQhCg==
